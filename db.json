@@ -1,0 +1,158 @@
+{
+  "documents": [
+    {
+      "id": 74760,
+      "title": "2016_07-Parks.pdf-redacted.pdf",
+      "filename": "2016_07-Parks.pdf-redacted.pdf",
+      "deleted": false,
+      "redacted_at": "2019-11-22 22:00:16.935181",
+      "folder": "parks",
+      "state": "requester",
+      "request_id": 22899,
+      "redaction_layer_count": 3
+    },
+    {
+      "id": 74761,
+      "title": "General report (14).pdf-redacted.pdf",
+      "filename": "General report (14).pdf-redacted.pdf",
+      "deleted": false,
+      "redacted_at": "2019-11-22 22:37:06.794465",
+      "folder": "reports",
+      "state": "requester",
+      "request_id": 22899,
+      "redaction_layer_count": 1
+    },
+    {
+      "id": 74762,
+      "title": "General report (14)-redacted.pdf",
+      "filename": "General report (14)-redacted.pdf",
+      "deleted": false,
+      "redacted_at": "2019-12-04 23:44:59.467256",
+      "folder": "reports",
+      "state": "requester",
+      "request_id": 22900,
+      "redaction_layer_count": 4
+    },
+    {
+      "id": 74763,
+      "title": "2016_07-Parks-redacted.pdf",
+      "filename": "2016_07-Parks-redacted.pdf",
+      "deleted": false,
+      "redacted_at": "2019-12-04 23:45:04.212027",
+      "folder": null,
+      "state": "requester",
+      "request_id": 22899,
+      "redaction_layer_count": 354
+    },
+    {
+      "id": 74766,
+      "title": "Deferred Capital Funded Projects - Financial Reports (2)-redacted.html",
+      "filename": "Deferred Capital Funded Projects - Financial Reports (2)-redacted.html",
+      "deleted": true,
+      "redacted_at": null,
+      "folder": null,
+      "state": "staff",
+      "request_id": 22899,
+      "redaction_layer_count": 0
+    },
+    {
+      "id": 74767,
+      "title": "ByrnEverett.pdf",
+      "filename": "ByrnEverett.pdf",
+      "deleted": false,
+      "redacted_at": null,
+      "folder": null,
+      "state": "staff",
+      "request_id": 22899,
+      "redaction_layer_count": 0
+    },
+    {
+      "id": 74768,
+      "title": "Deferred Capital Funded Projects - Financial Reports-redacted.html.pdf",
+      "filename": "Deferred Capital Funded Projects - Financial Reports-redacted.html.pdf",
+      "deleted": false,
+      "redacted_at": "2019-12-05 21:06:31.343269",
+      "folder": null,
+      "state": "staff",
+      "request_id": 22899,
+      "redaction_layer_count": 33
+    },
+    {
+      "id": 74769,
+      "title": "Parks P-6 Report 7-7-11.xlsx",
+      "filename": "Parks P-6 Report 7-7-11.xlsx",
+      "deleted": false,
+      "redacted_at": null,
+      "folder": "parks",
+      "state": "staff",
+      "request_id": 22899,
+      "redaction_layer_count": 0
+    },
+    {
+      "id": 74770,
+      "title": "Yearly CASHFLOW BASELINE process-redacted.txt",
+      "filename": "Yearly CASHFLOW BASELINE process-redacted.txt",
+      "deleted": false,
+      "redacted_at": null,
+      "folder": "parks",
+      "state": "staff",
+      "request_id": 22899,
+      "redaction_layer_count": 0
+    },
+    {
+      "id": 74772,
+      "title": "2016_07-Parks.pdf-redacted.pdf",
+      "filename": "2016_07-Parks.pdf-redacted.pdf",
+      "deleted": false,
+      "redacted_at": "2019-12-05 22:54:19.950739",
+      "folder": "parks",
+      "state": "staff",
+      "request_id": 22899,
+      "redaction_layer_count": 354
+    },
+    {
+      "id": 74776,
+      "title": "Deferred Capital Funded Projects - Financial Reports-redacted.html.pdf",
+      "filename": "Deferred Capital Funded Projects - Financial Reports-redacted.html.pdf",
+      "deleted": false,
+      "redacted_at": "2019-12-05 23:36:35.877789",
+      "folder": null,
+      "state": "staff",
+      "request_id": 22899,
+      "redaction_layer_count": 31
+    },
+    {
+      "id": 74777,
+      "title": "Yearly CASHFLOW BASELINE process-redacted.txt",
+      "filename": "Yearly CASHFLOW BASELINE process-redacted.txt",
+      "deleted": false,
+      "redacted_at": null,
+      "folder": null,
+      "state": "staff",
+      "request_id": 22899,
+      "redaction_layer_count": 0
+    },
+    {
+      "id": 74778,
+      "title": "Snow Density, September 11, 2019, end of day-redacted.csv",
+      "filename": "Snow Density, September 11, 2019, end of day-redacted.csv",
+      "deleted": true,
+      "redacted_at": null,
+      "folder": null,
+      "state": "staff",
+      "request_id": 22899,
+      "redaction_layer_count": 0
+    },
+    {
+      "id": 74778,
+      "title": "Snow Density, September 11, 2019, end of day-redacted(1).csv",
+      "filename": "Snow Density, September 11, 2019, end of day-redacted(1).csv",
+      "deleted": false,
+      "redacted_at": null,
+      "folder": null,
+      "state": "staff",
+      "request_id": 22899,
+      "redaction_layer_count": 0
+    }
+  ]
+}
